@@ -1,19 +1,19 @@
 # Respuestas Final Project Coursera
 
 **Pregunta 1**
-`https://github.com/AgentBooster/github-final-project/README.md`
+`https://github.com/AgentBooster/github-final-project/blob/main/README.md`
 
 **Pregunta 2**
-`https://github.com/AgentBooster/github-final-project/LICENSE`
+`https://github.com/AgentBooster/github-final-project/blob/main/LICENSE`
 
 **Pregunta 3**
-`https://github.com/AgentBooster/github-final-project/CODE_OF_CONDUCT.md`
+`https://github.com/AgentBooster/github-final-project/blob/main/CODE_OF_CONDUCT.md`
 
 **Pregunta 4**
-`https://github.com/AgentBooster/github-final-project/CONTRIBUTING.md`
+`https://github.com/AgentBooster/github-final-project/blob/main/CONTRIBUTING.md`
 
 **Pregunta 5**
-`https://github.com/AgentBooster/github-final-project/simple-interest.sh`
+`https://github.com/AgentBooster/github-final-project/blob/main/simple-interest.sh`
 
 **Pregunta 6**
 
